@@ -3,6 +3,7 @@
 #include "types.h"
 #include "nativeCaller.h"
 #include "enums.h"
+#include "main.h"
 
 void update() {
     Hash tentModelHash = GAMEPLAY::GET_HASH_KEY((char*)"p_tentarmypup01x");
