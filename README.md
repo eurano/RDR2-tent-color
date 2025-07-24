@@ -1,5 +1,13 @@
+RDR2 disable eating and drinking during combat
+
 Bored with your tent color? Change it!
 There are four colors to choose from. Check the images (note that screenshots include HDR screen so they are washed out).
+
+Requirements: ScriptHookRDR2 V2 https://www.nexusmods.com/reddeadredemption2/mods/1472?tab=files
+
+Installation: Download release and put copy paste deye.asi file into your main game folder.
+
+Compilation requires Script Hook SDK https://www.dev-c.com/gtav/scripthookv/
 
 
 ![color1](https://github.com/user-attachments/assets/8489f3e9-ac79-4722-8814-4c3b5493bc7f)
